@@ -2,8 +2,15 @@
 
 We are **Aksana** and **Aliaksandr** a small family team where **ART meets IT**.
 
-We build open-source projects, respect privacy, and love art.
+- **Aksana** - Bitcoin Artist & Fashion Designer  
+  [Website](https://buybitart.com) · [Instagram](https://www.instagram.com/5ksana_handmade/) · [X / Twitter](https://x.com/5Ksana)
 
+- **Aliaksandr** - QA Automation Engineer | Penetration Tester  
+  [LinkedIn](https://www.linkedin.com/in/aliaksandr-zasinets-qa) · [Website](https://www.bitart.pro/)
+
+We build open-source projects, respect privacy, and love art.
 We create tools for Bitcoin artists, creators, small websites, and people who value **FREEDOM, SECURITY, AND OPEN SOURCE**.
+
+[❤️ GitHub Sponsors](https://github.com/sponsors/buybitart)
 
 ❤️ Thank you for visiting our GitHub.
