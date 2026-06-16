@@ -14,3 +14,13 @@ We create tools for Bitcoin artists, creators, small websites, and people who va
 [❤️ GitHub Sponsors](https://github.com/sponsors/buybitart)
 
 ❤️ Thank you for visiting our GitHub.
+
+
+<p align="center">
+  <strong>100% Independent</strong> ·
+  <strong>100% Open Source</strong> ·
+  <strong>100% Self-Hosted</strong> ·
+  <strong>100% Artist-Controlled</strong> ·
+  <strong>Security First</strong> ·
+  <strong>0% Government Funded</strong>
+</p>
