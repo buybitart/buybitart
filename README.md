@@ -24,3 +24,5 @@ We create tools for Bitcoin artists, creators, small websites, and people who va
   <strong>Security First</strong> ·
   <strong>0% Government Funded</strong>
 </p>
+
+<img width="1536" height="1024" alt="main" src="https://github.com/user-attachments/assets/7e695bae-fadd-4465-b583-6db9d3496ac6" />
